@@ -1,0 +1,2 @@
+Esse texto é um teste para ver se o funcionamento da conexão da pasta local está devidamente
+configurada e funcionando em conjunto com a pasta remoto no GitHub.
